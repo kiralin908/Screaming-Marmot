@@ -13,6 +13,7 @@
 		4F796D812B4C0EB0001F5429 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4F796D7F2B4C0EB0001F5429 /* Main.storyboard */; };
 		4F796D832B4C0EB2001F5429 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4F796D822B4C0EB2001F5429 /* Assets.xcassets */; };
 		4F796D862B4C0EB2001F5429 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4F796D842B4C0EB2001F5429 /* LaunchScreen.storyboard */; };
+		4F796D942B4C3E81001F5429 /* screamSound.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 4F796D932B4C3E80001F5429 /* screamSound.m4a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		4F796D822B4C0EB2001F5429 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4F796D852B4C0EB2001F5429 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4F796D872B4C0EB2001F5429 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4F796D932B4C3E80001F5429 /* screamSound.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = screamSound.m4a; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				4F796D822B4C0EB2001F5429 /* Assets.xcassets */,
 				4F796D842B4C0EB2001F5429 /* LaunchScreen.storyboard */,
 				4F796D872B4C0EB2001F5429 /* Info.plist */,
+				4F796D932B4C3E80001F5429 /* screamSound.m4a */,
 			);
 			path = "Screaming Marmot";
 			sourceTree = "<group>";
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4F796D942B4C3E81001F5429 /* screamSound.m4a in Resources */,
 				4F796D862B4C0EB2001F5429 /* LaunchScreen.storyboard in Resources */,
 				4F796D832B4C0EB2001F5429 /* Assets.xcassets in Resources */,
 				4F796D812B4C0EB0001F5429 /* Main.storyboard in Resources */,
